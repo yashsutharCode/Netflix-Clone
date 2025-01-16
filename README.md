@@ -34,7 +34,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 Your app is ready to be deployed!
 
 ---![Screenshot 2025-01-16 124324](https://github.com/user-attachments/assets/0085a4c5-463d-4a95-82c8-ae192af9550c)
-![Screenshot 2025-01-16 124324](https://github.com/user-attachments/assets/4174b6ec-7a21-4b9f-912b-eb0f0758630a)
 
 
 ## Learn More

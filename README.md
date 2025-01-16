@@ -1,6 +1,6 @@
 # Netflix Clone
 
-A Netflix clone built with React, featuring a dynamic user interface, responsive design, and seamless functionality. It includes browsing categories, fetching movies via APIs, and a clean layout replicating Netflix's look and feel. Perfect for showcasing React skills and understanding modern web development techniques.
+A Netflix clone built with React, featuring a dynamic user interface, responsive design, and seamless functionality , and a clean layout replicating Netflix's look and feel. Perfect for showcasing React skills and understanding modern web development techniques.
 
 ---
 
